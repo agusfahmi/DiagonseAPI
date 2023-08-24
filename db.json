@@ -1,5 +1,5 @@
-{
-  "diagnosa": [
+
+  [
     {
       "id": 1,
       "nama": "Caries",
@@ -61,4 +61,3 @@
       "rekomendasi": "Rutin menyikat gigi dengan lembut menggunakan sikat gigi yang lembut, menggunakan pembersih lidah khusus, minum banyak air untuk menghilangkan bakteri dan sisa-sisa makanan yang tersangkut pada lidah."
     }
   ]
-}
