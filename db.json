@@ -1,4 +1,10 @@
 [
+        {
+      "id": 0,
+      "nama": "Data Kosong",
+      "penyebab": "Data Null",
+      "rekomendasi": "Data Null"
+    },
     {
       "id": 1,
       "nama": "Caries",
