@@ -1,0 +1,20 @@
+[
+  {
+        "id": 0,
+        "nama": "Lidah Sehat",
+        "penyebab": "Tidak Ada",
+        "rekomendasi": "Terus jaga kesehatanmu"
+      },
+  {
+        "id": 1,
+        "nama": "Lidah Fissur",
+        "penyebab": "Belum diketahui pasti, namun ada beberapa faktor yang bisa menyebabkan lidah pecah-pecah, seperti faktor keturunan (genetik), kekurangan asupan zat besi, folat, dan vitamin B12, infeksi jamur, konsumsi makanan pedas atau asam, minuman panas, serta minuman beralkohol, serta sistem kekebalan tubuh yang melemah.",
+      "rekomendasi": "Berhenti mengonsumsi minuman beralkohol, mengonsumsi makanan bergizi seimbang, mengurangi konsumsi makanan pedas dan asam, memenuhi kebutuhan cairan tubuh dengan minum air putih minimal 8 gelas tiap harinya."
+      },
+  {
+        "id": 2,
+        "nama": "Kanker Lidah",
+         "penyebab": "Kebiasaan merokok, konsumsi minuman beralkohol, infeksi Human papilomavirus (HPV), kesehatan rongga mulut yang tidak baik, pola makan yang tidak sehat.",
+      "rekomendasi": "Operasi, kemoterapi, radioterapi"
+      }
+]
